@@ -20,6 +20,8 @@
      
         $dbconnect = new DBConnect();
 		$pdo = $dbconnect->connect();	
+
+	echo $dbconnect;
 		
    	
 
