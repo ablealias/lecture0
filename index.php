@@ -22,6 +22,7 @@
 		$pdo = $dbconnect->connect();	
 
 	echo $dbconnect;
+	echo 'test edit';
 		
    	
 
